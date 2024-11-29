@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.hotelreservation"},{"l":"com.hotelreservation.controller"},{"l":"com.hotelreservation.model"},{"l":"com.hotelreservation.service"},{"l":"com.hotelreservation.util"},{"l":"com.hotelreservation.viewmodel"}];updateSearchResults();

@@ -1,6 +1,6 @@
 # Hotel Management System 
 
-![System Screenshot](LogoName.png "Hotel Management System Overview")
+![System Screenshot](sample.png "Hotel Management System Overview")
 
 ## Overview
 
